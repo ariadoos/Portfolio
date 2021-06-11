@@ -1,0 +1,10 @@
+<?php
+
+namespace $NAMESPACE$;
+
+use Modules\Core\Repositories\Interfaces\BaseRepositoryInterface;
+
+interface $CLASS_NAME$RepositoryInterface extends BaseRepositoryInterface
+{
+
+}
